@@ -20,3 +20,12 @@
 #7.solver.py： 官方提供的接口，由此建立model并进行训练  
 #8.fc_net.py： 两个类：1) 两层神经网络 2）多层神经网络  
 
+
+
+**#2019-11-10**  
+==
+这周看完了《Deep Learning for Generic Object Detection: A Survey》，总结了object detection的Two Stage Framework模型，并对Mask-RCNN进行了实验。但是，没有阅读论文进行更深入的阅读，个人计划先做好综述，后面再选择性的深入。  
+
+**计划下一周**再完成Unified Pipeline (One Stage Pipeline)的网络综述，DetectorNet、YOLO、SSD等等。同时也做一个详细的计划表，不然每天有点不清楚自己一天到底做了什么，应该做什么。  
+
+#此次附件中文件比较简单，一个是综述报告，一个是简单实现Mask RCNN的Demo  
